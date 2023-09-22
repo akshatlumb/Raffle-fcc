@@ -1,0 +1,8 @@
+.env 
+artifacts
+cache 
+coverage.json 
+deployments
+node_modules
+coverage 
+
